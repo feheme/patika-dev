@@ -1,0 +1,15 @@
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\bin\Debug\net7.0\operators.exe
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\bin\Debug\net7.0\operators.deps.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\bin\Debug\net7.0\operators.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\bin\Debug\net7.0\operators.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\refint\operators.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\operators\obj\Debug\net7.0\ref\operators.dll
