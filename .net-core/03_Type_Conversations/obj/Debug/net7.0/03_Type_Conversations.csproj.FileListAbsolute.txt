@@ -1,0 +1,15 @@
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\bin\Debug\net7.0\03_Type_Conversations.exe
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\bin\Debug\net7.0\03_Type_Conversations.deps.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\bin\Debug\net7.0\03_Type_Conversations.runtimeconfig.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\bin\Debug\net7.0\03_Type_Conversations.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\bin\Debug\net7.0\03_Type_Conversations.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.csproj.AssemblyReference.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.AssemblyInfoInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.AssemblyInfo.cs
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.csproj.CoreCompileInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\refint\03_Type_Conversations.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\03_Type_Conversations.genruntimeconfig.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\03_Type_Conversations\obj\Debug\net7.0\ref\03_Type_Conversations.dll
