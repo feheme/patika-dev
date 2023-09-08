@@ -1,0 +1,15 @@
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\bin\Debug\net7.0\06_Switch_Case.exe
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\bin\Debug\net7.0\06_Switch_Case.deps.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\bin\Debug\net7.0\06_Switch_Case.runtimeconfig.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\bin\Debug\net7.0\06_Switch_Case.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\bin\Debug\net7.0\06_Switch_Case.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.AssemblyInfoInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.AssemblyInfo.cs
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\refint\06_Switch_Case.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\06_Switch_Case.genruntimeconfig.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\06_Switch_Case\obj\Debug\net7.0\ref\06_Switch_Case.dll
