@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\variables-and-datatypes\\variables-and-datatypes.csproj": {}
+    "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\02_Variables-and-DataTypes\\variables-and-datatypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\variables-and-datatypes\\variables-and-datatypes.csproj": {
+    "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\02_Variables-and-DataTypes\\variables-and-datatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\variables-and-datatypes\\variables-and-datatypes.csproj",
+        "projectUniqueName": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\02_Variables-and-DataTypes\\variables-and-datatypes.csproj",
         "projectName": "variables-and-datatypes",
-        "projectPath": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\variables-and-datatypes\\variables-and-datatypes.csproj",
+        "projectPath": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\02_Variables-and-DataTypes\\variables-and-datatypes.csproj",
         "packagesPath": "C:\\Users\\fth-h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\variables-and-datatypes\\obj\\",
+        "outputPath": "C:\\Users\\fth-h\\OneDrive\\Masaüstü\\patika-dev\\patika-dev\\.net-core\\02_Variables-and-DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fth-h\\AppData\\Roaming\\NuGet\\NuGet.Config",
