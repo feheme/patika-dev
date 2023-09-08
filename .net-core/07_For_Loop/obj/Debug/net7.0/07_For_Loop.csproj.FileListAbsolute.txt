@@ -1,0 +1,15 @@
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\bin\Debug\net7.0\07_For_Loop.exe
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\bin\Debug\net7.0\07_For_Loop.deps.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\bin\Debug\net7.0\07_For_Loop.runtimeconfig.json
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\bin\Debug\net7.0\07_For_Loop.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\bin\Debug\net7.0\07_For_Loop.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.csproj.AssemblyReference.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.AssemblyInfoInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.AssemblyInfo.cs
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\refint\07_For_Loop.dll
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.pdb
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\07_For_Loop.genruntimeconfig.cache
+C:\Users\fth-h\OneDrive\Masaüstü\patika-dev\patika-dev\.net-core\07_For_Loop\obj\Debug\net7.0\ref\07_For_Loop.dll
