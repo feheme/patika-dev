@@ -15,9 +15,10 @@
 // // 'a' dan 'z' ye kadar tüm harfleri console a yazdır.
 // char character = 'a';
 // while (character <'z') // {
-//
+//  Console.Write(character);
+//  character++;
+// 
 // }
-//Console.Write(character); character++;
 Console.Write("***** Foreach *****");
 string[] arabalar = { "BMV", "Ford", "Toyota", "Nissan" };
 foreach (var araba in arabalar)
