@@ -3,9 +3,10 @@
 // int sayi = int.Parse(Console.ReadLine());
 // int sayac = 1;
 // int toplam = 0;
-// while (sayac<<<= sayi)
+// while (sayac<= sayi)
 // {
-//
+//      toplam += sayac;
+//      sayac++;
 //
 // }
 //toplam += sayac;
