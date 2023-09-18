@@ -17,7 +17,7 @@ Console.WriteLine(degisken.EndsWith("Hoşgeldiniz!"));
 Console.WriteLine(degisken.StartsWith("Merhaba!"));
 //IndexOf
 Console.WriteLine(degisken.IndexOf("CS"));
-Console.WriteLine(degisken.IndexOf("Nevzat"));
+Console.WriteLine(degisken.IndexOf("Feheme"));
 Console.WriteLine(degisken.LastIndexOf("t"));
 //Insert
 Console.WriteLine(degisken.Insert(0, "Merhaba! "));
